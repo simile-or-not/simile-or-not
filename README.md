@@ -1,7 +1,6 @@
 ## пр | RU
 
-Я Simile. Произносится как-то так: СимИл.  
-Да, знаю, звучит не совсем так, как должно быть, но кто париться?  
+Я MegaFox.  
   
 Не сказал бы что прям знаю эти языки, но я _интересуюсь_ ими: C, FASM  
 Запланировано изучение: Kotlin, Typescript  
@@ -11,8 +10,7 @@
 
 ## heya | EN
 
-I am Simile, a Russian-speaking internet user. My nickname is pronounced something like this: [sʲɪˈmil] (not exactly)  
-Yea, I know, it doesn't sound exactly like it should be, but who cares?  
+I am MegaFox, a Russian-speaking internet user.  
 
 I wouldn't say that I really know these languages, but I am _interested_ in them: C, FASM  
 I plan to study: Kotlin, Typescript  
